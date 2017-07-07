@@ -2,7 +2,7 @@
 
 A simple HTTP server for UNIX-like operating systems (MacOS, Linux, FreeBSD) with no dependencies. 
 
-Serve a site over the network in seconds!
+Serve a static site over the network in seconds!
 
 *Disclaimer: This software is still under development. Version 1.0 is coming soon.*
 
@@ -38,7 +38,7 @@ The site will be accessible via **`http://localhost`** on the host machine, or v
 
 *The site can be made accessible over the internet by configuring your router to forward requests on `TCP port 80` to the local ip address of the host machine.* The site will then be accessible to clients on the internet by visiting your public ip address or a domain name that you have registered.
 
-anji is compatible with common web-hosting services that run Unix/Linux machines (like Heroku).
+anji is compatible with common web-hosting services that run UNIX-like machines (like Heroku).
 
 ## Architecture
 
