@@ -1,6 +1,6 @@
 # anji
 
-A simple HTTP server for Unix-like operating systems (Mac OS X, Linux) with no dependencies. 
+A simple HTTP server for UNIX-like operating systems (MacOS, Linux, FreeBSD) with no dependencies. 
 
 Serve a site over the network in seconds!
 
